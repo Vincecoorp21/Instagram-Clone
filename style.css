@@ -69,4 +69,51 @@ form {
 
 .input-box:focus {
   outline: none;
+  border: 1px solid #8e8e8e;
+}
+.btn {
+  border: 0 solid #000;
+  background: lightblue;
+  border-radius: 5px;
+  width: 100%;
+
+  color: white;
+  padding: 9px 0 7px 8px;
+  letter-spacing: 1px;
+  font-size: 14px;
+  margin: 10px 0;
+}
+
+.separation {
+  display: flex;
+  width: 100%;
+  font-size: 16px;
+  font-weight: 600;
+  color: #8e8e8e;
+  gap: 20px;
+  align-items: center;
+}
+
+.line {
+  /* Flex Grow 1 -> allows the item to grow by occupying the entire space  */
+  flex-grow: 1;
+  height: 1px;
+  background-color: #8e8e8e;
+}
+.facebook-login {
+  margin: 20px 0;
+  color: #385185;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 16px;
+}
+
+.facebook-login i {
+  margin-right: 10px;
+  font-size: 20px;
+}
+.recover-pass {
+  color: #385185;
+  text-decoration: none;
+  font-size: 14px;
 }
