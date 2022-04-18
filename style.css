@@ -117,3 +117,33 @@ form {
   text-decoration: none;
   font-size: 14px;
 }
+
+.signup {
+  gap: 3.25px;
+  font-size: 17px;
+  justify-content: center;
+}
+
+.signup a {
+  text-decoration: none;
+  font-weight: 600;
+  color: rgb(0, 149, 246);
+}
+.app-market {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 17px;
+  margin: 20px 0;
+}
+.icon-market {
+  display: flex;
+  justify-content: center;
+  gap: 8px;
+  margin-top: 25px;
+}
+
+.icon-market img {
+  width: 145px;
+  height: auto;
+}
