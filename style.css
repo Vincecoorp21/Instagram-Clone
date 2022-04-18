@@ -10,6 +10,7 @@ body {
   background: #fafafa;
   display: flex;
   flex-direction: column;
+  align-items: center;
 }
 
 .wrapper {
@@ -150,4 +151,28 @@ form {
 .icon-market img {
   width: 145px;
   height: auto;
+}
+
+footer {
+  max-width: 35em;
+  margin-bottom: 50px;
+}
+ul {
+  display: flex;
+  gap: 10px;
+  /*put the items on the nest line with flex-wrap:wrap*/
+  flex-wrap: wrap;
+  justify-content: center;
+  list-style: none;
+  margin: 20px 0;
+}
+li,
+a {
+  text-decoration: none;
+  color: rgb(142, 142, 142);
+}
+@media (max-width: 800px) {
+  .left {
+    display: none;
+  }
 }
