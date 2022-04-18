@@ -14,6 +14,10 @@ body {
 
 .wrapper {
   display: flex;
+  align-items: center;
+  justify-content: center;
+  /* The content will be adapted to the available space, so that all the space can be used so that it is completely centered.*/
+  flex-grow: 1;
 }
 .left {
   position: relative;
