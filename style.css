@@ -154,7 +154,7 @@ form {
 }
 
 footer {
-  max-width: 35em;
+  max-width: 70%;
   margin-bottom: 50px;
 }
 ul {
@@ -170,6 +170,12 @@ li,
 a {
   text-decoration: none;
   color: rgb(142, 142, 142);
+}
+
+select {
+  border: none;
+  color: rgb(142, 142, 142);
+  font-size: 16.5px;
 }
 @media (max-width: 800px) {
   .left {
