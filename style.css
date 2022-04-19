@@ -81,12 +81,12 @@ form {
   background: lightblue;
   border-radius: 5px;
   width: 100%;
-
   color: white;
   padding: 9px 0 7px 8px;
   letter-spacing: 1px;
   font-size: 14px;
   margin: 10px 0;
+  cursor: pointer;
 }
 
 .separation {
@@ -177,6 +177,13 @@ select {
   color: rgb(142, 142, 142);
   font-size: 16.5px;
 }
+
+.buttonLogin {
+  width: 100%;
+  cursor: pointer;
+}
+
+/***************MEDIA QUERY****/
 @media (max-width: 800px) {
   .left {
     display: none;
