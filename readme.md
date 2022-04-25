@@ -1,8 +1,11 @@
-#Instagram Clone Project
+# Instagram Clone Project
 
 ## Author
 
-👤 **Franck Abgrall**
+👤 **Vince BC**
 
-- Twitter: [@FranckAbgrall](https://twitter.com/FranckAbgrall)
-- Github: [@kefranabg](https://github.com/kefranabg)
+- Twitter: [@VinceTrend](https://twitter.com/VinceTrend)
+- Github: [@Vincecoorp21](https://github.com/Vincecoorp21)
+- Linkedin:[@vibarcar](https://www.linkedin.com/in/vibarcar/)
+
+This project was developed By [Vicente Barberá - Vince BC -](https://github.com/Vincecoorp21)
