@@ -64,6 +64,7 @@ input {
 nav {
   display: flex;
   gap: 1.5em;
+  align-items: center;
 }
 /**************************MAIN SECTION*******************************/
 .wrapper {
@@ -79,11 +80,6 @@ nav {
   /* flex-wrap: wrap; */
   justify-content: center;
   gap: 30px;
-}
-
-.top-container div {
-  /* padding: 30px; */
-  /* gap: 10px; */
 }
 
 .top-container img {
@@ -116,6 +112,12 @@ nav {
   display: flex;
   align-items: center;
   justify-content: space-between;
+}
+.picture-title-nav {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  border: 2px solid transparent; /*2*/
 }
 
 .picture-title {

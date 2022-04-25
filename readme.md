@@ -8,7 +8,10 @@ Instagram Clone built width HTML, CSS & Javascript.
 
 The main objective of this project is to put into practice all that has been learnt in the last weeks of HTML5, CSS & Responsive Web Design.
 
-The project contains the Login Page & de User's Page.
+The project contains:
+
+- Login Page.
+- User Page.
 
 ## Built with...
 
