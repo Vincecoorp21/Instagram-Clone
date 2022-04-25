@@ -12,6 +12,10 @@ function myFunction3() {
   document.querySelector('.key3').classList.toggle('show');
 }
 
+function myFunction4() {
+  document.querySelector('.key4').classList.toggle('show');
+}
+
 // Close the dropdown menu if the user clicks outside of it
 // window.onclick = function (event) {
 //   if (!event.target.matches('.dropbtn')) {
